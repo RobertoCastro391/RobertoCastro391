@@ -10,7 +10,8 @@
   <samp>
     <a href="https://www.google.com/search?q=Roberto+Castrom">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Portugal</b> 」
+    「 I am a Computer Science Student from <b>Portugal</b> 」
+    「 University of <b>Aveiro</b> 」     
     <br>
     <br>
   </samp>
