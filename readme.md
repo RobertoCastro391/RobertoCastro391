@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Roberto+Castrom">「 Google Me 」</a>
+    <!--<a href="https://www.google.com/search?q=Roberto+Castro">「 Google Me 」</a>-->
     <br>
     「 I am a Computer Science Student from <b>Portugal</b> 」
     <br>
