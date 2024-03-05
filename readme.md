@@ -12,8 +12,7 @@
     <br>
     「 I am a Computer Science Student from <b>Portugal</b> 」
     <br>
-    「 University of <b>Aveiro</b> 」     
-    <br>
+    「 University of <b>Aveiro</b> 
     <br>
   </samp>
 </p>
